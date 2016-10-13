@@ -1,0 +1,25 @@
+body{
+    color : #FF8B73; 
+    background : #A61D00;
+    background-image:url(http://www.medicalteam.be/wp-content/uploads/2016/03/Website.jpg);
+    
+    
+}
+
+h1{
+    color: blue;
+    background-color: darkorange;
+    padding:10px 10px 10px 10px;
+    border-style:dotted;
+    border-width:5px;
+    border-bottom-color: darkgreen;
+    border-right-color: firebrick;
+    border-top-color: darkorange;
+    border-left-color: brown;
+    border-top-color: burlywood;
+    margin:50px;
+
+   font-family: cursive;
+   
+
+}
