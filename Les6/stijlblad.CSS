@@ -1,4 +1,22 @@
-div{
-    box-shadow: 5px;
-    background-color:chocolate;
+body
+{
+    text-align: center;
+    background-color:darkred;
+}
+p 
+{
+    color: chocolate;
+    background-color: chocolate
+    
+}
+h1
+{
+    color: brown;
+    background-color: chocolate   
+}
+
+p:hover
+{
+    font-weight: bolder;
+    color: black;
 }
