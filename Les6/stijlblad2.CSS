@@ -1,0 +1,50 @@
+body
+{
+  background-color: darkolivegreen;  
+} 
+
+
+
+div#first
+{
+    background-color: green;
+    height: 150%;
+    width: 150%;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 3px black;
+    
+}
+
+        
+div#second
+{
+    background-color: green;
+    height: 150%;
+    width: 50%;
+    box-shadow: 2px 2px 2px 3px black;
+    border-radius: 10px;
+    margin: 1%
+}
+
+        
+div#third
+{
+    background-color: green;
+    height: 150%;
+    width:  20%;
+    box-shadow: 2px 2px 2px 3px black;
+    border-radius: 10px;
+    margin: 1%
+}
+
+h3
+{
+    color: darkred;
+    text-shadow: 1px 1px black;
+}
+
+p
+{
+	font-variant: small-caps; 
+}
